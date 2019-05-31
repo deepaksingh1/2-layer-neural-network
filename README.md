@@ -1,5 +1,5 @@
 # 2-layer-neural-network
-Cassification model using 2-layer neural network.
+Classification model using 2-layer neural network.
   Using sum-of-square error as loss function.
   Using Sigmoid activation function.
 
